@@ -12,3 +12,11 @@ section {
 }
 h1 {
   color: #FFB6C1;
+}
+button {
+  background:#FFF1F5;
+  color:white;
+  border:none;
+  padding:10px 18px;
+  border-radius:4px;
+}
