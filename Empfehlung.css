@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFF1F5;
+  margin: 0;
+}
+section {
+  max-width: 500px;
+  margin: 60px auto;
+  background-color: #FFFFFF;
+  padding: 24px;
+  border-radius: 6px;
+}
+h1 {
+  color: #FFB6C1;
